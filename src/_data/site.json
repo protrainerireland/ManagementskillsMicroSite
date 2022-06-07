@@ -1,11 +1,11 @@
 {
-    "searchKeywords": ["JavaScript"],
+    "searchKeywords": ["Management skills"],
     "searchLocations": ["Dublin", "Cork", "Limerick", "Ireland"],
     "homepageTitle": "Training Courses - Dublin Cork Limerick Ireland", 
     "organisation": {
-        "name": "AngularTraining.ie" 
+        "name": "ManagementSkillsTraining.ie" 
     },
-    "url": "angulartraining.ie",
+    "url": "managementskillstraining.ie",
     "logo": "",
     "address": {
         "line1": "Building 6500E", 

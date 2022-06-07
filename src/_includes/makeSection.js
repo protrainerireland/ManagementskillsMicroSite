@@ -216,8 +216,8 @@ module.exports = {
                         data-aos-anchor="#${section.id}"
                         >
                         <p class="about-title">${ section.content.title }</p>
-                        <p>${ section.content.text1 }</p>
-                        <p>${ section.content.text2 }</p>
+                        <p>${ section.content.text }</p>
+                        
                         ${list}
                         </div>`;
                     if (section.image) {

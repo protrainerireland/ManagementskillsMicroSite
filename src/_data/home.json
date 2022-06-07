@@ -10,56 +10,37 @@
             "id": "banner", 
             "link": "no", 
             "type": "banner", 
-            "title": "Report Writing Training Courses Ireland", 
-            "subtitle": "Contact us for all your Report Writing training requirements", 
+            "title": "Management Skills Training Courses Ireland", 
+            "subtitle": "Contact us for all your Management Skills training requirements", 
             "background": "img/ground@-min.png",
             "image": "svg/onlineclass.svg"
         },
         {
             "id": "keywordtext",
             "link": "/#keywordtext", 
-            "text": "Info", 
-            "title": "Info", 
+            "text": "About", 
+            "title": "About", 
             "type": "keywordtext",
             "image": "/svg/Code Version Control.svg", 
             "imagePosition": "right",
             "content":{
                 "title": "Writing concisely and clearly takes time...",
-                "text1": "Writing concisely and clearly takes time. You have to work out exactly what your audience wants to know in order to make sure you are writing relevant information.  There is no set formula for writing a report – every report is different. Each one depends on what the purpose is, who you are writing for and the kind of information that you are reporting.",
-                "text2": "The keys to writing good reports are:",
-                "list":[
-                    "Understanding the types of writing a report involves.", 
-                    "Being able to identify the audience and purpose of your report.", 
-                    "Knowing how reports are read by your audience.", 
-                    "Knowing the purpose of each section in a report (not just where the information goes).", 
-                    "Understanding how good organisation of your report helps the reader find the information they want.", 
-                    "Being able to communicate well both in writing  and using graphical data."
-                ]
-
+                "text": "The world is changing faster than ever before. Tomorrow's challenges are simply not the same as today's challenges. With the right management skills training, you'll be ready to face tomorrow's uncertainty with confidence as you move into positions of higher responsibility.Management skills training will help you increase your knowledge and awareness of current business situations and economic conditions and prepare you for higher responsibility by sharpening not just your management skills but also your leadership skills."
             }
         },
         {
             "id": "summary",
             "link": "/#summary", 
-            "text": "What to Expect", 
-            "title": "What to Expect", 
+            "text": "Why Attend?", 
+            "title": "Why Attend?", 
             "type": "summary",
             "image": "", 
             "imagePosition": "right",
             "content":{
-                "title": "What to expect from one of our Facilitation Skills courses?",
-                "text1": "<a href=/courses>Our programmes</a> are designed for people who regularly write reports as part of their job. It will help to refresh their existing skills and introduce some new techniques and concepts. The value of the session is enhanced if the participants bring some sample documents.  Participants should be familiar with the basics of report writing and have created a number of reports.  Our courses are also suitable for more experienced report writers who may be self-taught, never having received any formal training.",
-
-                "text2": "Having completed our training the participants will:",
-                "list":[
-                    "Understand that professional writing is a career skill.", 
-                    "Understand the importance of knowing their audience.", 
-                    "Write in a context where the report may be read by an outside third party.", 
-                    "Write clear and concise sentences.", 
-                    "Have a clear understanding of the features of an effective report.", 
-                    "Know how to use tables, charts and diagrams to illustrate key points.",
-                    "Have practiced the techniques and created an action plan to apply them."
-                ]
+                "title": "What to expect from one of our Management Skills courses?",
+                "text1": "Our focused <a href = /courses >training courses</a> help participants to consolidate learning through projects that are directly related to their roles, bringing immediate value to the participant and their organisation.",
+                "text2": "Our Management Skills customised programmes are designed to give new managers the skills and confidence to take the next step forward in their organisation and to offer more experienced managers a refresher or an upskilling opportunity on specific subjects."
+                
             }
         } 
     ] 
