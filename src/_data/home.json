@@ -25,7 +25,9 @@
             "imagePosition": "right",
             "content":{
                 "title": "Writing concisely and clearly takes time...",
-                "text": "The world is changing faster than ever before. Tomorrow's challenges are simply not the same as today's challenges. With the right management skills training, you'll be ready to face tomorrow's uncertainty with confidence as you move into positions of higher responsibility.Management skills training will help you increase your knowledge and awareness of current business situations and economic conditions and prepare you for higher responsibility by sharpening not just your management skills but also your leadership skills."
+                "text":[
+                    "The world is changing faster than ever before. Tomorrow's challenges are simply not the same as today's challenges. With the right management skills training, you'll be ready to face tomorrow's uncertainty with confidence as you move into positions of higher responsibility.Management skills training will help you increase your knowledge and awareness of current business situations and economic conditions and prepare you for higher responsibility by sharpening not just your management skills but also your leadership skills."
+                ] 
             }
         },
         {
@@ -33,14 +35,15 @@
             "link": "/#summary", 
             "text": "Why Attend?", 
             "title": "Why Attend?", 
-            "type": "summary",
+            "type": "keywordtext",
             "image": "", 
             "imagePosition": "right",
             "content":{
                 "title": "What to expect from one of our Management Skills courses?",
-                "text1": "Our focused <a href = /courses >training courses</a> help participants to consolidate learning through projects that are directly related to their roles, bringing immediate value to the participant and their organisation.",
-                "text2": "Our Management Skills customised programmes are designed to give new managers the skills and confidence to take the next step forward in their organisation and to offer more experienced managers a refresher or an upskilling opportunity on specific subjects."
-                
+                "text":[
+                    "Our focused <a href = /courses >training courses</a> help participants to consolidate learning through projects that are directly related to their roles, bringing immediate value to the participant and their organisation.",
+                    "Our Management Skills customised programmes are designed to give new managers the skills and confidence to take the next step forward in their organisation and to offer more experienced managers a refresher or an upskilling opportunity on specific subjects."
+                ]    
             }
         } 
     ] 
