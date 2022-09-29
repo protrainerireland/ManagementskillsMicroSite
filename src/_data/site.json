@@ -3,9 +3,10 @@
     "searchLocations": ["Dublin", "Cork", "Limerick", "Ireland"],
     "homepageTitle": "Training Courses - Dublin Cork Limerick Ireland", 
     "organisation": {
-        "name": "ManagementSkillsTraining.ie" 
+        "name": "Professional Training Solutions Ltd" ,
+        "department": "ManagementSkillsTraining.ie" 
     },
-    "url": "managementskillstraining.ie",
+    "url": "https://www.managementskillstraining.ie",
     "logo": "",
     "address": {
         "line1": "Building 6500E", 
